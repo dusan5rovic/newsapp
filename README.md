@@ -1,2 +1,2 @@
-# intehnikwebapp
-web app
+# newsapp
+CodeIgniter tutorial
